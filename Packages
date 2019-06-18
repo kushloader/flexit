@@ -1,0 +1,13 @@
+Package: com.ogkush.appsync
+Name: Appsync Unified
+Version: 8.2
+Size: 29054
+Architecture: iphoneos-arm
+Description: This tweak will Appsync
+Maintainer: OGKush <email@provider.com>
+Author: OGKush <email@provider.com>
+Section: Tweaks
+MD5sum: B381138D369E5781408BA71DEBFC32C0
+SHA1sum: 8A3105CFDA999F44E3FDD3354FC515C35CDE0B89
+SHA256sum: 71DDC3C08894EEAA4FB7DAC824170E8583B348325897CFE3B1868854A0C555BC
+Filename: /net.angelxwind.appsyncunified_8.2.deb
